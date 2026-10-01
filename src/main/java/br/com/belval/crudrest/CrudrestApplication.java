@@ -14,6 +14,5 @@ public class CrudrestApplication {
 @GetMapping("/")
 public String eco() {
 	return "eco";
-
 }
 }
